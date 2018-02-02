@@ -1,0 +1,57 @@
+ #jsEditor
+  {
+    width: 100%;
+    height : 400px;
+    margin-top: 30px;
+  }
+  #container 
+  {
+    padding-left: 300px;
+  }
+  #content 
+  {
+    padding: 20px;
+  }
+  @media only screen and (max-width : 992px) 
+  {
+    #container 
+    {
+      padding-left: 0px;
+    }
+  }
+  textarea:focus + label {
+    color: #33691e !important;
+  }
+  #nav_id
+  {
+    font-size: 10;
+  }
+  textarea:focus {
+    border-bottom: 1px solid #33691e!important;
+    box-shadow: 0 1px 0 0 #33691e !important
+  }
+  .preloader-background {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eee;
+    
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  input[type=range]::-webkit-slider-thumb {
+    background-color: #33691e;
+  }
+  input[type=range]::-moz-range-thumb {
+    background-color: #33691e;
+  }
+  input[type=range]::-ms-thumb {
+    background-color: #33691e;
+  }
+  input[type=range] + .thumb {
+    background-color: #33691e;
+  }
