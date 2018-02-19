@@ -56,6 +56,5 @@
     background-color: #33691e;
   }
   img {
-     width: auto;
-     max-height: 10%;
+     width: "250";
   }
