@@ -1,0 +1,1462 @@
+{
+  "Hinjawadi": [
+    {
+      "AQI": 181.0, 
+      "Month": "Jan", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 143.83, 
+      "Month": "Feb", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 142.83, 
+      "Month": "Mar", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 151.22, 
+      "Month": "Apr", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 161.89, 
+      "Month": "May", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 120.71, 
+      "Month": "Jun", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 136.38, 
+      "Month": "Jul", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 107.4, 
+      "Month": "Aug", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 132.0, 
+      "Month": "Sep", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 160.0, 
+      "Month": "Oct", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 195.83, 
+      "Month": "Nov", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 166.1, 
+      "Month": "Dec", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 157.5, 
+      "Month": "Jan", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 163.6, 
+      "Month": "Feb", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 164.14, 
+      "Month": "Mar", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 125.86, 
+      "Month": "Apr", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 114.57, 
+      "Month": "May", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 187.33, 
+      "Month": "Jun", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 135.63, 
+      "Month": "Jul", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 108.71, 
+      "Month": "Aug", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 156.88, 
+      "Month": "Sep", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 187.69, 
+      "Month": "Oct", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 210.67, 
+      "Month": "Nov", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 213.0, 
+      "Month": "Dec", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 173.29, 
+      "Month": "Jan", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 175.2, 
+      "Month": "Feb", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 147.71, 
+      "Month": "Mar", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 153.75, 
+      "Month": "Apr", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 130.67, 
+      "Month": "May", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 131.43, 
+      "Month": "Jun", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 127.0, 
+      "Month": "Jul", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 146.38, 
+      "Month": "Aug", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 116.86, 
+      "Month": "Sep", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 156.86, 
+      "Month": "Oct", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 178.43, 
+      "Month": "Nov", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 161.43, 
+      "Month": "Dec", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 172.78, 
+      "Month": "Jan", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 179.33, 
+      "Month": "Feb", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 163.38, 
+      "Month": "Mar", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 146.67, 
+      "Month": "Apr", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 159.5, 
+      "Month": "May", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 129.29, 
+      "Month": "Jun", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 133.3, 
+      "Month": "Jul", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 148.67, 
+      "Month": "Aug", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 120.67, 
+      "Month": "Sep", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 192.33, 
+      "Month": "Oct", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 194.5, 
+      "Month": "Nov", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 187.71, 
+      "Month": "Dec", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 197.5, 
+      "Month": "Jan", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 158.0, 
+      "Month": "Feb", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 144.0, 
+      "Month": "Mar", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 142.67, 
+      "Month": "Apr", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 155.5, 
+      "Month": "May", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 125.29, 
+      "Month": "Jun", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 129.3, 
+      "Month": "Jul", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 144.67, 
+      "Month": "Aug", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 197.0, 
+      "Month": "Sep", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 232.33, 
+      "Month": "Oct", 
+      "Year": 2019
+    }
+  ], 
+  "Karve Nagar": [
+    {
+      "AQI": 159.04, 
+      "Month": "Jan", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 136.72, 
+      "Month": "Feb", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 141.22, 
+      "Month": "Mar", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 156.41, 
+      "Month": "Apr", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 144.5, 
+      "Month": "May", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 128.79, 
+      "Month": "Jun", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 112.76, 
+      "Month": "Jul", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 112.62, 
+      "Month": "Aug", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 127.21, 
+      "Month": "Sep", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 139.67, 
+      "Month": "Oct", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 147.59, 
+      "Month": "Nov", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 143.06, 
+      "Month": "Dec", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 116.13, 
+      "Month": "Jan", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 103.57, 
+      "Month": "Feb", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 101.73, 
+      "Month": "Mar", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 100.71, 
+      "Month": "Apr", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 110.74, 
+      "Month": "May", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 95.89, 
+      "Month": "Jun", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 77.03, 
+      "Month": "Jul", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 85.23, 
+      "Month": "Aug", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 141.9, 
+      "Month": "Sep", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 111.73, 
+      "Month": "Oct", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 127.62, 
+      "Month": "Nov", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 109.79, 
+      "Month": "Dec", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 93.03, 
+      "Month": "Jan", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 88.52, 
+      "Month": "Feb", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 87.75, 
+      "Month": "Mar", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 82.68, 
+      "Month": "Apr", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 61.8, 
+      "Month": "May", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 55.83, 
+      "Month": "Jun", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 59.06, 
+      "Month": "Jul", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 68.21, 
+      "Month": "Aug", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 65.79, 
+      "Month": "Sep", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 80.38, 
+      "Month": "Oct", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 95.29, 
+      "Month": "Nov", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 93.32, 
+      "Month": "Dec", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 79.53, 
+      "Month": "Jan", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 86.92, 
+      "Month": "Feb", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 90.27, 
+      "Month": "Mar", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 86.65, 
+      "Month": "Apr", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 86.0, 
+      "Month": "May", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 127.0, 
+      "Month": "Jun", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 103.23, 
+      "Month": "Jul", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 94.77, 
+      "Month": "Aug", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 91.74, 
+      "Month": "Sep", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 97.15, 
+      "Month": "Oct", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 84.77, 
+      "Month": "Nov", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 96.38, 
+      "Month": "Dec", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 90.08, 
+      "Month": "Jan", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 96.0, 
+      "Month": "Feb", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 89.17, 
+      "Month": "Mar", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 80.75, 
+      "Month": "Apr", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 151.5, 
+      "Month": "May", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 101.0, 
+      "Month": "Jun", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 88.0, 
+      "Month": "Jul", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 84.0, 
+      "Month": "Aug", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 133.0, 
+      "Month": "Sep", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 117.0, 
+      "Month": "Oct", 
+      "Year": 2019
+    }
+  ], 
+  "Katraj": [
+    {
+      "AQI": 130.76, 
+      "Month": "Jan", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 107.78, 
+      "Month": "Feb", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 98.0, 
+      "Month": "Mar", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 95.25, 
+      "Month": "Apr", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 66.86, 
+      "Month": "May", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 74.63, 
+      "Month": "Jun", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 69.22, 
+      "Month": "Jul", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 64.29, 
+      "Month": "Aug", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 72.86, 
+      "Month": "Sep", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 86.23, 
+      "Month": "Oct", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 117.38, 
+      "Month": "Nov", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 119.11, 
+      "Month": "Dec", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 114.38, 
+      "Month": "Jan", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 121.78, 
+      "Month": "Feb", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 99.22, 
+      "Month": "Mar", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 100.14, 
+      "Month": "Apr", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 75.56, 
+      "Month": "May", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 136.78, 
+      "Month": "Jun", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 110.88, 
+      "Month": "Jul", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 87.0, 
+      "Month": "Aug", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 75.4, 
+      "Month": "Sep", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 108.8, 
+      "Month": "Oct", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 130.2, 
+      "Month": "Nov", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 140.33, 
+      "Month": "Dec", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 142.86, 
+      "Month": "Jan", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 127.25, 
+      "Month": "Feb", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 104.71, 
+      "Month": "Mar", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 110.375, 
+      "Month": "Apr", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 91.25, 
+      "Month": "May", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 65.5, 
+      "Month": "Jun", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 64.4, 
+      "Month": "Jul", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 74.88, 
+      "Month": "Aug", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 76.86, 
+      "Month": "Sep", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 106.45, 
+      "Month": "Oct", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 119.71, 
+      "Month": "Nov", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 151.0, 
+      "Month": "Dec", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 161.33, 
+      "Month": "Jan", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 158.5, 
+      "Month": "Feb", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 149.44, 
+      "Month": "Mar", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 104.83, 
+      "Month": "Apr", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 83.0, 
+      "Month": "May", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 72.0, 
+      "Month": "Jun", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 81.1, 
+      "Month": "Jul", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 75.33, 
+      "Month": "Aug", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 67.88, 
+      "Month": "Sep", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 114.14, 
+      "Month": "Oct", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 148.83, 
+      "Month": "Nov", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 166.75, 
+      "Month": "Dec", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 213.36, 
+      "Month": "Jan", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 163.75, 
+      "Month": "Feb", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 124.71, 
+      "Month": "Mar", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 84.83, 
+      "Month": "Apr", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 63.0, 
+      "Month": "May", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 52.0, 
+      "Month": "Jun", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 61.1, 
+      "Month": "Jul", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 55.33, 
+      "Month": "Aug", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 47.88, 
+      "Month": "Sep", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 94.14, 
+      "Month": "Oct", 
+      "Year": 2019
+    }
+  ], 
+  "Pimpri": [
+    {
+      "AQI": 139.42, 
+      "Month": "Jan", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 132.56, 
+      "Month": "Feb", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 126.75, 
+      "Month": "Mar", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 119.67, 
+      "Month": "Apr", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 96.95, 
+      "Month": "May", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 71.09, 
+      "Month": "Jun", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 64.0, 
+      "Month": "Jul", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 55.29, 
+      "Month": "Aug", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 72.5, 
+      "Month": "Sep", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 121.0, 
+      "Month": "Oct", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 146.0, 
+      "Month": "Nov", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 164.86, 
+      "Month": "Dec", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 139.6, 
+      "Month": "Jan", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 126.75, 
+      "Month": "Feb", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 119.67, 
+      "Month": "Mar", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 96.95, 
+      "Month": "Apr", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 71.09, 
+      "Month": "May", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 64.0, 
+      "Month": "Jun", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 55.29, 
+      "Month": "Jul", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 54.14, 
+      "Month": "Aug", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 69.7, 
+      "Month": "Sep", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 95.0, 
+      "Month": "Oct", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 130.48, 
+      "Month": "Nov", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 119.5, 
+      "Month": "Dec", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 140.0, 
+      "Month": "Jan", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 126.75, 
+      "Month": "Feb", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 119.67, 
+      "Month": "Mar", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 96.95, 
+      "Month": "Apr", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 71.09, 
+      "Month": "May", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 64.0, 
+      "Month": "Jun", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 55.29, 
+      "Month": "Jul", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 54.14, 
+      "Month": "Aug", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 69.7, 
+      "Month": "Sep", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 95.0, 
+      "Month": "Oct", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 130.48, 
+      "Month": "Nov", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 119.5, 
+      "Month": "Dec", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 125.58, 
+      "Month": "Jan", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 125.6, 
+      "Month": "Feb", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 101.41, 
+      "Month": "Mar", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 91.87, 
+      "Month": "Apr", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 80.85, 
+      "Month": "May", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 80.0, 
+      "Month": "Jun", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 80.29, 
+      "Month": "Jul", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 82.15, 
+      "Month": "Aug", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 84.6, 
+      "Month": "Sep", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 99.67, 
+      "Month": "Oct", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 101.37, 
+      "Month": "Nov", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 114.05, 
+      "Month": "Dec", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 138.29, 
+      "Month": "Jan", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 118.0, 
+      "Month": "Feb", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 139.56, 
+      "Month": "Mar", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 140.0, 
+      "Month": "Apr", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 145.0, 
+      "Month": "May", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 113.0, 
+      "Month": "Jun", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 120.67, 
+      "Month": "Jul", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 160.67, 
+      "Month": "Aug", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 132.0, 
+      "Month": "Sep", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 153.0, 
+      "Month": "Oct", 
+      "Year": 2019
+    }
+  ], 
+  "Swargate": [
+    {
+      "AQI": 240.0, 
+      "Month": "Jan", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 208.25, 
+      "Month": "Feb", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 200.63, 
+      "Month": "Mar", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 184.25, 
+      "Month": "Apr", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 170.13, 
+      "Month": "May", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 132.11, 
+      "Month": "Jun", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 136.0, 
+      "Month": "Jul", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 142.29, 
+      "Month": "Aug", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 140.22, 
+      "Month": "Sep", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 159.33, 
+      "Month": "Oct", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 182.86, 
+      "Month": "Nov", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 213.63, 
+      "Month": "Dec", 
+      "Year": 2015
+    }, 
+    {
+      "AQI": 227.0, 
+      "Month": "Jan", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 207.5, 
+      "Month": "Feb", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 195.56, 
+      "Month": "Mar", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 197.76, 
+      "Month": "Apr", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 180.74, 
+      "Month": "May", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 175.29, 
+      "Month": "Jun", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 185.11, 
+      "Month": "Jul", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 146.89, 
+      "Month": "Aug", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 162.78, 
+      "Month": "Sep", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 182.36, 
+      "Month": "Oct", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 256.83, 
+      "Month": "Nov", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 275.78, 
+      "Month": "Dec", 
+      "Year": 2016
+    }, 
+    {
+      "AQI": 258.38, 
+      "Month": "Jan", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 220.63, 
+      "Month": "Feb", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 189.56, 
+      "Month": "Mar", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 189.88, 
+      "Month": "Apr", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 161.44, 
+      "Month": "May", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 132.0, 
+      "Month": "Jun", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 132.86, 
+      "Month": "Jul", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 129.33, 
+      "Month": "Aug", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 139.29, 
+      "Month": "Sep", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 181.89, 
+      "Month": "Oct", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 208.63, 
+      "Month": "Nov", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 246.78, 
+      "Month": "Dec", 
+      "Year": 2017
+    }, 
+    {
+      "AQI": 217.83, 
+      "Month": "Jan", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 239.78, 
+      "Month": "Feb", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 203.56, 
+      "Month": "Mar", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 189.0, 
+      "Month": "Apr", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 190.67, 
+      "Month": "May", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 179.33, 
+      "Month": "Jun", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 171.56, 
+      "Month": "Jul", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 139.29, 
+      "Month": "Aug", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 186.11, 
+      "Month": "Sep", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 198.71, 
+      "Month": "Oct", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 213.75, 
+      "Month": "Nov", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 233.71, 
+      "Month": "Dec", 
+      "Year": 2018
+    }, 
+    {
+      "AQI": 274.86, 
+      "Month": "Jan", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 214.75, 
+      "Month": "Feb", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 194.0, 
+      "Month": "Mar", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 282.0, 
+      "Month": "Apr", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 240.5, 
+      "Month": "May", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 232.0, 
+      "Month": "Jun", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 224.0, 
+      "Month": "Jul", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 262.67, 
+      "Month": "Aug", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 274.0, 
+      "Month": "Sep", 
+      "Year": 2019
+    }, 
+    {
+      "AQI": 292.0, 
+      "Month": "Oct", 
+      "Year": 2019
+    }
+  ]
+}
